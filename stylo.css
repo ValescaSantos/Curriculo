@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    text-align: center;
+    background-color: mistyrose;
+}
+.img{
+    width: 35%;
+    margin-right: 30%;
+    margin-left: 30%;
+    justify-content: center;
+
+    
+}
+.texto{
+    color: royalblue;
+    text-align: center;
+    background: paleturquoise;
+    font-size: 35px;
+    justify-content: center;
+    
+   
+}
+.objetivo {
+    color: royalblue;
+    text-align: center;
+    font-size: 35px;
+    
+}
+p{
+    text-align: center;
+    margin: 3%;
+    font-size: 30px;
+  
+}
+.formacao{
+    color: royalblue;
+    text-align: center;
+    font-size: 35px;
+   
+}
+.experiencia{
+    color: royalblue;
+    text-align: center;
+    font-size: 35px;
+    
+}
+.curso{
+    color: royalblue;
+    text-align: center;
+    font-size: 35px;
+  
+}
